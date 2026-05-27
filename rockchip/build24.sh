@@ -73,6 +73,7 @@ packages=(
   luci-app-openclash
   luci-i18n-samba4-zh-cn
   luci-i18n-dockerman-zh-cn
+  luci-proto-wireguard
   openssh-sftp-server
   ppp-mod-pptp
   script-utils

@@ -104,7 +104,6 @@ packages=(
   kmod-usb-uhci
   kmod-ata-ahci
   kmod-ata-core
-  kmod-fs-ntfs
   kmod-fs-ext4
   kmod-usb-storage
   kmod-usb-storage-extras

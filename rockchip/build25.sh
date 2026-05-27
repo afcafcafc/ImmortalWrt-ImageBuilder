@@ -74,7 +74,6 @@ packages=(
   script-utils
   fdisk
   xl2tpd
-  adb
   curl
   ntpdate
   usbutils

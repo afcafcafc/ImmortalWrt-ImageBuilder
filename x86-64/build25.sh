@@ -52,7 +52,7 @@ PACKAGES=""
 packages=(
   luci-i18n-airplay2-zh-cn
   luci-i18n-openlist-zh-cn
-  luci-i18n-filemanager-zh-cn
+  #luci-i18n-filemanager-zh-cn
   luci-app-argon-config
   luci-i18n-ddns-go-zh-cn
   luci-i18n-frpc-zh-cn
@@ -70,6 +70,7 @@ packages=(
   #luci-i18n-samba4-zh-cn
   luci-i18n-dockerman-zh-cn
   luci-proto-wireguard
+  openssh-sftp-server
   #openssh-sftp-server
   ppp-mod-pptp
   script-utils

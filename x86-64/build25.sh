@@ -65,10 +65,10 @@ packages=(
   luci-i18n-argon-config-zh-cn
   luci-i18n-diskman-zh-cn
   luci-i18n-package-manager-zh-cn
-  #luci-i18n-ttyd-zh-cn
+  luci-i18n-ttyd-zh-cn
   luci-app-openclash
-  #luci-i18n-samba4-zh-cn
-  #luci-i18n-dockerman-zh-cn
+  luci-i18n-samba4-zh-cn
+  luci-i18n-dockerman-zh-cn
   luci-proto-wireguard
   openssh-sftp-server
   #openssh-sftp-server

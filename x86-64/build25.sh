@@ -123,6 +123,10 @@ packages=(
   kmod-hid-generic
   kmod-sound-core
   kmod-usb-audio
+  kmod-iwlwifi
+  iw
+  wpad-basic-mbedtls
+  hostapd
 )
 
 # 使用循环逐个追加

@@ -50,12 +50,12 @@ PACKAGES=""
 
 
 packages=(
-  luci-i18n-airplay2-zh-cn
-  luci-i18n-openlist-zh-cn
+  #luci-i18n-airplay2-zh-cn
+  #luci-i18n-openlist-zh-cn
   #luci-i18n-filemanager-zh-cn
   luci-app-argon-config
-  luci-i18n-ddns-go-zh-cn
-  luci-i18n-frpc-zh-cn
+  #luci-i18n-ddns-go-zh-cn
+  #luci-i18n-frpc-zh-cn
   luci-i18n-ttyd-zh-cn
   #luci-i18n-vsftpd-zh-cn
   #luci-i18n-wol-zh-cn
@@ -63,13 +63,13 @@ packages=(
   luci-i18n-firewall-zh-cn
   luci-app-argon-config
   luci-i18n-argon-config-zh-cn
-  luci-i18n-diskman-zh-cn
+  #luci-i18n-diskman-zh-cn
   luci-i18n-package-manager-zh-cn
   luci-i18n-ttyd-zh-cn
-  luci-app-openclash
-  luci-i18n-samba4-zh-cn
-  luci-i18n-dockerman-zh-cn
-  luci-proto-wireguard
+  #luci-app-openclash
+  #luci-i18n-samba4-zh-cn
+  #luci-i18n-dockerman-zh-cn
+  #luci-proto-wireguard
   openssh-sftp-server
   #openssh-sftp-server
   ppp-mod-pptp
